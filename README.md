@@ -44,4 +44,4 @@
 
 <h4 align="center">빌드는 기본 java가 21이여야 합니다.</h2>
 <h4 align="center">또한 Gradle이 설치되여있어야 합니다.</h2>
-- Gradle를 까시는 법을 모르신다구요? [여기](./docs/installinggradlefordummies.txt)를 누르세요!
+- Gradle를 까시는 법을 모르신다구요? [여기](./docs/installinggradlefordummies.txt) 를 누르세요!
