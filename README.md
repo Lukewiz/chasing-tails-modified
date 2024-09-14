@@ -39,8 +39,8 @@
 
 <h2 align="center">빌드</h2>
 
-<h2 align="center">현재 빌드 기능은 업데이트 하지 않고 있습니다.</h2>
-<h2 align="center">빌드하시려면 한마포에서 나타조 님에게 연락주세요.</h2>
+<h2 align="center">현재 빌드 기능은 업데이트 하지 않고 있습니다.</p>
+<h2 align="center">빌드하시려면 한마포에서 나타조 님에게 연락주세요.</p>
 
 <h4 align="center">빌드는 기본 java가 21이여야 합니다.</h2>
 <h4 align="center">또한 Gradle이 설치되여있어야 합니다.</h2>
